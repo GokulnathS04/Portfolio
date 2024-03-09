@@ -12,6 +12,7 @@
       background-color: beige;
       min-height: 100vh;
       position: relative;
+      /* scroll-behavior: smooth; */
   }
 
   .subcontainer {
